@@ -1,0 +1,6 @@
+@SUT23_Project_AvanceradNET_HostAddress = http://localhost:5051
+
+GET {{SUT23_Project_AvanceradNET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
